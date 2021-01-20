@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateArea", "CalculateArea.csproj", "{8C6782C4-D81C-46A9-9D79-619EFE464F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{BF6F3377-BDAF-4090-B663-9064878FD7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6782C4-D81C-46A9-9D79-619EFE464F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6782C4-D81C-46A9-9D79-619EFE464F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6782C4-D81C-46A9-9D79-619EFE464F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6782C4-D81C-46A9-9D79-619EFE464F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6F3377-BDAF-4090-B663-9064878FD7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6F3377-BDAF-4090-B663-9064878FD7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6F3377-BDAF-4090-B663-9064878FD7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6F3377-BDAF-4090-B663-9064878FD7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D8B20E-74F8-4B98-AF07-205704575481}
+	EndGlobalSection
+EndGlobal
